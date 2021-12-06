@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Sid 👋
+
+I'm an IT student at Western University of Applied Scienes in Bergen!
+
+I have an profound interest in machine learning, frontend development, cryptocurrency, smartcontracts and everything in between.
 
 <!--
 **SindreKjelsrud/SindreKjelsrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
