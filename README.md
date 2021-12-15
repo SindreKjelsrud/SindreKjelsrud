@@ -1,20 +1,11 @@
-### Hi there, I'm Sid 👋
+<h1 align="center"> 🌱 hi there! im sid </h1>
 
-I'm an IT student at Western University of Applied Scienes in Bergen!
+<h3 align="center"> I'm a 1st year IT uni-student from Norway at Western University of Applied Scienes in Bergen! </h3>
 
-I have an profound interest in machine learning, frontend development, cryptocurrency, smartcontracts and everything in between.
+## about me
 
-<!--
-**SindreKjelsrud/SindreKjelsrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* i'm currently learning a bit about blockchain and cryptocurrency ontop of my school studies
+* i'm a huge nerd when it comes to anime, games and tech
+* i'm obsessed with being active outdoors & love snowboarding during the winterseason
+* i have a profound interest in machine learning (even though i don't have much time for it)
+* i created my [portfolio website] from scratch
