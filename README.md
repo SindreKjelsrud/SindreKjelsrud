@@ -8,4 +8,4 @@
 * i'm a huge nerd when it comes to anime, games and tech
 * i'm obsessed with being active outdoors & love snowboarding during the winterseason
 * i have a profound interest in machine learning (even though i don't have much time for it)
-* i created my portfolio website from scratch
+* i created my portfolio/personal website from scratch
