@@ -1,6 +1,6 @@
 <h1 align="center"> 🦕 hello world! im sid </h1>
 
-<h3 align="center"> I'm a 1st year IT uni-student from Norway at Western University of Applied Scienes in Bergen! </h3>
+<h3 align="center"> I'm a 1st year IT uni-student at Western University of Applied Scienes in Bergen, Norway! </h3>
 
 ## about me
 
