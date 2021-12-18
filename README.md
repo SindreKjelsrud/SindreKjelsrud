@@ -17,8 +17,6 @@
 |   2  |[Cookie Clicker](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 |   3  |[Personal Website](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)| HTML / CSS |
 
-<br>
-
 ## 🦕 languages and tools i've worked with
 
 <p align="left">
