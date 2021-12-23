@@ -6,7 +6,7 @@
 
 * i'm currently learning a bit about blockchain and cryptocurrency ontop of my school studies
 * i'm a huge nerd when it comes to anime, games and tech
-* i'm obsessed with being active outdoors & love snowboarding during the winterseason
+* i love being active outdoors & go snowboarding during the winterseason
 * i created my portfolio/personal website from scratch
 
 ## projects
