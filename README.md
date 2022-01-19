@@ -1,4 +1,4 @@
-<h1 align="center"> 🦕 hello world! i'm sid </h1>
+<h1 align="center"> 🦕 hello world!</h1>
 
 <h3 align="center"> I'm a 1st year IT uni-student at Western University of Applied Scienes in Bergen, Norway! </h3>
 
