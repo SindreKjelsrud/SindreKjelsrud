@@ -27,11 +27,10 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
   
-## 🌍 connect with me
+## 🌍 connect with me                                         📊 Stats
 <p align="left">
   <a href="https://www.linkedin.com/in/sindrekjelsrud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sindrekjelsrud" height="30" width="40"/> </a>
 
-## 📊 Stats
 <p align="right">
   <a href="https://github.com/SindreKjelsrud"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindreKjelsrud&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
 </p>
