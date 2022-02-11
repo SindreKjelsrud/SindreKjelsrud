@@ -17,7 +17,7 @@
 |   2  |[Cookie Clicker](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 |   3  |[Personal Website](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)| HTML / CSS |
 
-## 💻 languages and tools i've worked with - 📊 stats
+## 💻 languages and tools i've worked with (w/ stats📊)
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
