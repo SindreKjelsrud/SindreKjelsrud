@@ -33,6 +33,6 @@
   <a href="https://www.linkedin.com/in/sindrekjelsrud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sindrekjelsrud" height="30" width="40"/> </a>
 </p>
 
-<p align="right">
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=SindreKjelsrud&repo=README.md&countColor=%C4C4F6)
-</p>
+<br>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=SindreKjelsrud&repo=README.md&countColor=%C4C4F6)
