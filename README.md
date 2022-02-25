@@ -35,4 +35,4 @@
 
 <br>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=SindreKjelsrud&repo=README.md&countColor=#BA68C8)
+![](https://api.visitorbadge.io/api/VisitorHit?user=SindreKjelsrud&repo=README.md&countColor=#37D67A)
