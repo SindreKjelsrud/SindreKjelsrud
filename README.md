@@ -1,12 +1,12 @@
 <h1 align="center"> 🦕 hello world!</h1>
 
-<h3 align="center"> I'm a 1st year IT uni-student at Western University of Applied Scienes in Bergen, Norway! </h3>
+<h3 align="center"> I'm a 2nd year IT-student at Western University of Applied Scienes in Bergen, Norway! </h3>
 
 ## about me
 
 * i'm currently learning a bit about blockchain and cryptocurrency ontop of my school studies
 * i'm a huge nerd when it comes to anime, games and tech
-* i love being active outdoors & go snowboarding during the winterseason
+* i like being active outdoors & go snowboarding during the winterseason
 * i created my portfolio/personal website from scratch
 
 ## projects
