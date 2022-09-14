@@ -1,6 +1,7 @@
 <h1 align="center"> 🦕 hello world!</h1>
 
-<h3 align="center"> My name is Sindre Kjelsrud, and I'm a 2nd year IT-student at Western University of Applied Scienes in Bergen, Norway! </h3>
+<h3 align="center"> My name is Sindre Kjelsrud. </h3>
+<h3 align="center"> I'm a 2nd year IT-student at Western University of Applied Scienes in Bergen, Norway! </h3>
 
 ## projects
 
