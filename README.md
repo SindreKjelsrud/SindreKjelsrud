@@ -8,8 +8,8 @@
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
 |   1  |[sidBot - A Discord bot](https://github.com/SindreKjelsrud/sidBot)| Python |
-|   2  |[Cookie Clicker](https://github.com/SindreKjelsrud/CookieClicker)| Java |
-|   3  |[Personal Website](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)| HTML / CSS |
+|   2  |[Personal Website](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)| Hugo |
+|   3  |[Cookie Clicker](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 
 ## 💻 languages and tools i've worked with (w/ stats📊)
 <p align="left">
