@@ -12,13 +12,13 @@
 |   3  |[Cookie Clicker🍪](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 
 ## 💻 technologies (w/ stats📊)
-#### Familiar with
+### Familiar with
 <p align="left">
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=ava&logoColor=white"/></a>
 	<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 	<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 	
-#### Have dipped my toes into / Learning
+### Have dipped my toes into / Learning
 <p align="left">
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
 	<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
