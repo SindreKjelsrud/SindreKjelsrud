@@ -23,7 +23,8 @@
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
 	<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 	<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JS%20-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
 </p>
 
 <details>
