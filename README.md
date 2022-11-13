@@ -9,7 +9,8 @@
 |:------:|:-----------------:|:------:|
 |   1  |[🤖sidBot - A Discord bot](https://github.com/SindreKjelsrud/sidBot)| Python |
 |   2  |[Personal Website](https://github.com/SindreKjelsrud/sindrekjelsrud.github.io)| Hugo |
-|   3  |[Cookie Clicker🍪](https://github.com/SindreKjelsrud/CookieClicker)| Java |
+|   3  |[Wordle🔡](https://github.com/SindreKjelsrud/Wordle)| Java |
+|   4  |[Cookie Clicker🍪](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 
 ## 💻 technologies (w/ stats📊)
 ### Familiar with
