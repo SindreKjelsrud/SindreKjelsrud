@@ -26,6 +26,7 @@
 	<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript%20-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=black"/></a>
+	<a href="https://www.vim.org//"><img src="https://img.shields.io/badge/Vim%20-darkgreen.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>	
 </p>
 
 <details>
