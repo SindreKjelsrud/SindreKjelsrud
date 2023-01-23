@@ -13,7 +13,7 @@
 |   4  |[Cookie Clicker🍪](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 
 ## 💻 technologies (w/ stats📊)
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Familiar%with&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)
 	
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=python,python,0369a0;git,git,bb3c25;postgresql,postgresql,4982f3;javascript,javascript,fbff00;vim,vim,00941e;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=python,python,0369a0;git,git,bb3c25;postgresql,postgresql,4982f3;javascript,javascript,fbff00;vim,vim,00941e;)
 
