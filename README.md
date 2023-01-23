@@ -13,21 +13,9 @@
 |   4  |[Cookie Clicker🍪](https://github.com/SindreKjelsrud/CookieClicker)| Java |
 
 ## 💻 technologies (w/ stats📊)
-### Familiar with
-<p align="left">
-  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=ava&logoColor=white"/></a>
-	<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-	<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=coffeescript,java,f97306;html5,html5,E34F26;css3,css3,1572B6;)
 	
-### Have dipped my toes into / Learning
-<p align="left">
-	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-	<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
-	<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgresql%20-0064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-	<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript%20-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=black"/></a>
-	<a href="https://www.vim.org//"><img src="https://img.shields.io/badge/Vim%20-darkgreen.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>	
-</p>
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=python,python,0369a0;git,git,bb3c25;postgresql,postgresql,4982f3;javascript,javascript,fbff00;vim,vim,00941e;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Basic%20knowledge%20/%20Learning&lineCount=1&theme=cyberpunk&line1=python,python,0369a0;git,git,bb3c25;postgresql,postgresql,4982f3;javascript,javascript,fbff00;vim,vim,00941e;)
 
 <details>
 <summary>stats</summary>
