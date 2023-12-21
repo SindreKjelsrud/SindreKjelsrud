@@ -8,5 +8,5 @@
 
 🌍 connect with me:
 
-| [website](https://kjelsrud.dev/) | [linkedin](https://www.linkedin.com/in/sindrekjelsrud) | [instagram](https://www.instagram.com/SindreKjelsrud/) | [spotify](https://open.spotify.com/user/kjelsrud!) |
+| [website](https://kjelsrud.dev/) | [linkedin](https://www.linkedin.com/in/sindrekjelsrud) | [spotify](https://open.spotify.com/user/kjelsrud!) |
 | - | - | - | - |
