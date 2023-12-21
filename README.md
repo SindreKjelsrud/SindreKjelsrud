@@ -9,4 +9,4 @@
 🌍 connect with me:
 
 | [website](https://kjelsrud.dev/) | [linkedin](https://www.linkedin.com/in/sindrekjelsrud) | [spotify](https://open.spotify.com/user/kjelsrud!) |
-| - | - | - | - |
+| - | - | - |
